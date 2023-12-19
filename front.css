@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.body {
+    background: #090909;
+    width: 1280px;
+    height: 563px;
+    position: absolute;
+}
+.body1{
+    position: relative;
+    background: #181818;
+    width: 600px;
+    height: 308px;
+    top: 103px;
+    margin-left: 340px;
+    border-radius: 5px;
+    border: 0.1px solid rgb(16, 15, 15);
+    box-shadow: 5px 5px 10px 1px black;
+    text-align: center;
+}
+.one p{
+    margin-left: 505px;
+    margin-top: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12.5px;
+    color: rgb(255, 255, 12);
+    background: #1f1f20;
+    padding: 7px 9px;
+    border-radius: 3px;
+}
+.img {
+    margin-top: -18px;
+}
+.two {
+    color: rgb(209, 206, 206);
+    font-size: 16.2.5px;
+    letter-spacing: 1.5px;
+    margin-top: 17px;
+}
+.three a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    background-color: yellow;
+    padding: 7px 40px;
+    letter-spacing: 2px;
+    font-weight: 475;
+    border-radius: 5px;
+}
+.three {
+    margin-top: 35px;
+}
+.four p {
+    color: rgb(209, 206, 206);
+    font-size: 12.5px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-top: 35px;
+}
